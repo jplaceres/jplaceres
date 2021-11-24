@@ -1,4 +1,8 @@
-# Welcome Banner
+# ![Welcome Banner](intro-banner.png)
+
+
+
+
 <!-- <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
@@ -11,7 +15,7 @@
 )][3]
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ][4]
-![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram)
+![Instagram](https://img.shields.io/badge/Instagram-F11457?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 ---
@@ -37,7 +41,7 @@ Feel free to reach me and connect with me!
 ## GitHub Info
 
 ![GitHub Stats](https://github-readme-stats-jplaceres.vercel.app/api?username=jplaceres&show_icons=true&theme=nord&custom_title=My%20GitHub%20Stats%20🔥&count_private=true&hide_border=false&show_icons=true)
-![Streak Dashboard](http://github-readme-streak-stats.herokuapp.com?user=jplaceres&theme=nord&date_format=M%20j%5B%2C%20Y%5D)
+![Streak Dashboard](http://github-streak-stats-jplaceres.herokuapp.com?user=jplaceres&theme=nord&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Most Languages Used](https://github-readme-stats-jplaceres.vercel.app/api/top-langs/?username=jplaceres&theme=nord&layout=compact&langs_count=4)
 ![Customized Repo Card](https://github-readme-stats-jplaceres.vercel.app/api/pin?username=jplaceres&theme=nord&repo=github-readme-stats)
@@ -78,7 +82,7 @@ Feel free to reach me and connect with me!
 ---
 Made with 💜 + 🔥 + ☕
 
-Connect with me! ([🔝](#welcome-banner))
+<!-- Connect with me! ([🔝](#welcome-banner)) -->
 
 
 
