@@ -13,14 +13,15 @@
 
 ---
 
-## **About Me**
-My name is Jose Placeres. I am a recent graduate from [Florida Polytechnic University][1]. I earned a Bachelor of Science in Computer Science. Throughout my college years, I specialized in Information Assurance and Cybersecurity. 
+<!-- ## **About Me** -->
+My name is Jose Placeres. I graduated from [Florida Polytechnic University][1] with a Bachelor of Science in Computer Science. During my time at Florida Poly, I participated in multiple development projects, hackathons, and organizations. I expanded my skills in teamwork, communication, and leadership.
 
-I am a passionate learner who loves analyzing challenges. The need to help others is what fuels my passion for coding. I love to explore new technologies and tools while leveraging them to solve real-life problems. With a little bit of coffee, I put my heart into each project that I work on. My ability to be versatile has helped me develop creative solutions.
+I am a driven developer who loves analyzing challenges. As a life-long learner, I love to explore new technologies and tools while leveraging them to solve real-life problems. With a little bit of coffee, I put my heart into each project I work on, creating responsive, user-friendly, and accessible solutions.
 
 The next chapter in my life starts with a new career path. I look forward to seeing what's to come.
 
 Feel free to reach me and connect with me!
+
 
 ## **My Tech Stack**
 ### 👨‍💻 Programming Languages
