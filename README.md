@@ -1,7 +1,7 @@
 # ![Banner](intro-banner-slim.png)
 
 <p align="center">
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+    <a href="https://www.linkedin.com/in/jose-placeres/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.github.com/jplaceres">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
